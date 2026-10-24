@@ -26,7 +26,7 @@ Full specs, published results with DOIs, prices and showcases: **[g.tec-neurotec
 - [Open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): resting state, AEP, P300, VEP and MRCP, raw and preprocessed
 
 ## Research
-Co-author of more than 130 peer-reviewed papers on BCIs, brain mapping, stroke rehabilitation and disorders of consciousness. See [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Guger+C%5BAuthor%5D).
+Co-author of more than 130 peer-reviewed papers on BCIs, brain mapping, stroke rehabilitation and disorders of consciousness. See [ORCID 0000-0001-6468-8500](https://orcid.org/0000-0001-6468-8500) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Guger+C%5BAuthor%5D).
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/christoph-guger/) · [g.tec](https://www.gtec.at) · [YouTube](https://www.youtube.com/@gtecmedicalengineering) · [BR41N.IO hackathons](https://www.br41n.io) · [BCI Award](https://www.bci-award.com)
+[LinkedIn](https://www.linkedin.com/in/christoph-guger/) · [ORCID](https://orcid.org/0000-0001-6468-8500) · [g.tec](https://www.gtec.at) · [YouTube](https://www.youtube.com/@gtecmedicalengineering) · [BR41N.IO hackathons](https://www.br41n.io) · [BCI Award](https://www.bci-award.com)
