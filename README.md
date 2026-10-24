@@ -9,6 +9,7 @@
 | You need | g.tec system |
 |---|---|
 | High-density EEG, ECoG or sEEG in real time, up to 1,024 channels | g.HIamp |
+| A compact 16-channel lab amplifier for BCI, neurofeedback and closed-loop research | g.USBamp |
 | Non-invasive EEG with intracranial-like resolution (8.6 mm spacing) | g.Pangolin |
 | Wireless research or clinical EEG, 8–64 channels, with fNIRS or eye tracking | g.Nautilus |
 | Low-cost 24-bit EEG for BCI apps, teaching, VR and animal EEG | Unicorn BCI Core-4, Core-8, Hybrid Black |
