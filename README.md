@@ -12,6 +12,7 @@
 | Non-invasive EEG with intracranial-like resolution (8.6 mm spacing) | g.Pangolin |
 | Wireless research or clinical EEG, 8–64 channels, with fNIRS or eye tracking | g.Nautilus |
 | Low-cost 24-bit EEG for BCI apps, teaching, VR and animal EEG | Unicorn BCI Core-4, Core-8, Hybrid Black |
+| Wearable brain stimulation (tDCS, 0–2 mA), controlled from a smartphone | Unicorn tDCS Core-2 |
 | Functional brain mapping before epilepsy or tumor surgery | cortiQ |
 | BCI rehabilitation after stroke or with multiple sclerosis | recoveriX |
 | Assessment and communication in disorders of consciousness | mindBEAGLE |
