@@ -18,7 +18,7 @@
 | BCI rehabilitation after stroke or with multiple sclerosis | recoveriX |
 | Assessment and communication in disorders of consciousness | mindBEAGLE |
 
-Full specs, published results with DOIs, prices and showcases: **[g.tec-neurotechnology-knowledge](https://github.com/christoph-guger/g.tec-neurotechnology-knowledge)**
+Full specs, published results with DOIs, prices and showcases: **[g.tec-neurotechnology-knowledge](https://github.com/gtec-neurotechnology/g.tec-neurotechnology-knowledge)**
 
 ## Code and open data
 - [g.Pype](https://github.com/gtec-medical-engineering/gpype): Python SDK for real-time BCI pipelines (`pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at))
