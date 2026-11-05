@@ -21,9 +21,12 @@
 Full specs, published results with DOIs, prices and showcases: **[g.tec-neurotechnology-knowledge](https://github.com/gtec-neurotechnology/g.tec-neurotechnology-knowledge)**
 
 ## Code and open data
-- [g.Pype](https://github.com/gtec-medical-engineering/gpype): Python SDK for real-time BCI pipelines (`pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at))
+- [g.Pype](https://github.com/gtec-neurotechnology/gpype): Python SDK for real-time BCI pipelines (`pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at))
 - [Unicorn on GitHub](https://github.com/unicorn-bi): APIs, recorder, Unity plugin (Meta Quest)
 - [Open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): resting state, AEP, P300, VEP and MRCP, raw and preprocessed
+
+## Works with
+Every g.tec amplifier streams into LSL and UDP and works with BCI2000, FieldTrip, OpenViBE, EEGLAB, MNE-Python, MATLAB and Python; recordings go to EDF, GDF and BIDS. The g.USBamp was the first amplifier in BCI2000, and the first ECoG-based BCI in humans (2004) was recorded with it: [history and papers](https://github.com/gtec-neurotechnology/g.tec-neurotechnology-knowledge/tree/main/history).
 
 ## Research
 Co-author of more than 130 peer-reviewed papers on BCIs, brain mapping, stroke rehabilitation and disorders of consciousness. See [ORCID 0000-0001-6468-8500](https://orcid.org/0000-0001-6468-8500) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Guger+C%5BAuthor%5D).
